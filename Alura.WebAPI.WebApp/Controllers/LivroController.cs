@@ -48,10 +48,16 @@ namespace Alura.ListaLeitura.WebApp.Controllers
             return File("~/images/capas/capa-vazia.png", "image/png");
         }
 
+        // Quando o ASP.NET percebe que o retorno do método é um objeto, este o retora como JSON.
+        public Livro RecuperaLivro(int id)
+        {
+            return _repo.Find(id);
+        }
+
         [HttpGet]
         public IActionResult Detalhes(int id)
         {
-            var model = _repo.Find(id);
+            var model = RecuperaLivro(id);
             if (model == null)
             {
                 return NotFound();
@@ -62,12 +68,23 @@ namespace Alura.ListaLeitura.WebApp.Controllers
         [HttpGet]
         public IActionResult DetalhesSemHTML(int id)
         {
-            var model = _repo.Find(id);
+            var model = RecuperaLivro(id);
             if (model == null)
             {
                 return NotFound();
             }
-            return Json(model.ToModel());
+            return Json(model.ToModel()); // Retorna objeto do tipo 'LivroUpload'.
+        }
+
+        [HttpGet]
+        public ActionResult<LivroUpload> DetalhesJson(int id)
+        {
+            var model = RecuperaLivro(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return model.ToModel(); // Retorna objeto do tipo 'LivroUpload'.
         }
 
         [HttpPost]
