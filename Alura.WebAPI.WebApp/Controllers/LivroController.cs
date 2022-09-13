@@ -65,28 +65,6 @@ namespace Alura.ListaLeitura.WebApp.Controllers
             return View(model.ToModel());
         }
 
-        [HttpGet]
-        public IActionResult DetalhesSemHTML(int id)
-        {
-            var model = RecuperaLivro(id);
-            if (model == null)
-            {
-                return NotFound();
-            }
-            return Json(model.ToModel()); // Retorna objeto do tipo 'LivroUpload'.
-        }
-
-        [HttpGet]
-        public ActionResult<LivroUpload> DetalhesJson(int id)
-        {
-            var model = RecuperaLivro(id);
-            if (model == null)
-            {
-                return NotFound();
-            }
-            return model.ToModel(); // Retorna objeto do tipo 'LivroUpload'.
-        }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Detalhes(LivroUpload model)
