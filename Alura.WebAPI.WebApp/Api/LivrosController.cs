@@ -27,7 +27,7 @@ namespace Alura.WebAPI.WebApp.Api
         }
 
         [HttpPost]
-        public IActionResult Incluir(LivroUpload model)
+        public IActionResult Incluir([FromBody] LivroUpload model)
         {
             if (ModelState.IsValid)
             {
@@ -39,7 +39,8 @@ namespace Alura.WebAPI.WebApp.Api
             return BadRequest();
         }
 
-        public IActionResult Alterar(LivroUpload model)
+        [HttpPost]
+        public IActionResult Alterar([FromBody] LivroUpload model)
         {
             if (ModelState.IsValid)
             {
@@ -57,7 +58,6 @@ namespace Alura.WebAPI.WebApp.Api
             return BadRequest();
         }
 
-
         [HttpPost]
         public IActionResult Remover(int id)
         {
@@ -67,7 +67,7 @@ namespace Alura.WebAPI.WebApp.Api
                 return NotFound();
             }
             _repo.Excluir(model);
-            return NoContent(); // 203 Code
+            return NoContent(); // 204 Code
         }
     }
 }
