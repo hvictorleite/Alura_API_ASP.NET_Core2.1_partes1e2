@@ -7,19 +7,19 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Alura.WebAPI.AuthProvider": {
+    "Alura.WebAPI.Api": {
       "commandName": "Project",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5000"
+      "applicationUrl": "http://localhost:6000"
     }
   },
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:48087",
+      "applicationUrl": "http://localhost:33954",
       "sslPort": 0
     }
   }
