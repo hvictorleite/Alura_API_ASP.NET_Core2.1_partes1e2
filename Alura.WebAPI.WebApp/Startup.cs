@@ -47,6 +47,11 @@ namespace Alura.ListaLeitura.WebApp
             services.AddMvc(options =>
                     options.OutputFormatters.Add(new LivroCsvFormatters()))
                 .AddXmlSerializerFormatters();
+
+            services.AddAuthentication(options => {
+                options.DefaultAuthenticateScheme = "JwtBearer";
+                options.DefaultChallengeScheme = "JwtBearer";
+            });
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
