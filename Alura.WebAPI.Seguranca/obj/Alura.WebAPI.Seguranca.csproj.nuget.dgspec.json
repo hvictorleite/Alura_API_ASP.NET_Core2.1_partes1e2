@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {}
+    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
+    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+        "projectUniqueName": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
         "projectName": "Alura.WebAPI.Seguranca",
-        "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
-        "packagesPath": "C:\\Users\\vhleite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
+        "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+        "packagesPath": "C:\\Users\\hvict\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Seguranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vhleite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,11 +57,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

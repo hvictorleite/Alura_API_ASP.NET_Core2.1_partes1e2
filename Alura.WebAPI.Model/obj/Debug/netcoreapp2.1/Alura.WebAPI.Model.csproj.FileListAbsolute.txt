@@ -7,3 +7,13 @@ C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET pa
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb

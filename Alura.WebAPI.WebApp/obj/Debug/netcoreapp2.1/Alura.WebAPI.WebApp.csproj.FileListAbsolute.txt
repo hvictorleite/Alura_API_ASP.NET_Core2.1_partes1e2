@@ -39,3 +39,45 @@ C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET pa
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.genruntimeconfig.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.deps.json
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.json
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.dev.json
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.AssemblyReference.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.input.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.output.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorCoreGenerate.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Detalhes.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Novo.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Livro.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NovoLivro.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Register.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cache
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cs
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CopyComplete
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.genruntimeconfig.cache
