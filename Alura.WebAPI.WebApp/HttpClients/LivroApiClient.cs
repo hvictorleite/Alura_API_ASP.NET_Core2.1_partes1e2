@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Lista = Alura.ListaLeitura.Modelos.ListaLeitura;
 
 namespace Alura.ListaLeitura.HttpClients
 {
@@ -14,6 +15,14 @@ namespace Alura.ListaLeitura.HttpClients
         public LivroApiClient(HttpClient httpClient)
         {
             _httpClient = httpClient;
+        }
+
+        public async Task<Lista> GetListaLeituraAsync(TipoListaLeitura tipo)
+        {
+            HttpResponseMessage responseMessage = await _httpClient.GetAsync($"listasleitura/{tipo}");
+            responseMessage.EnsureSuccessStatusCode();
+
+            return await responseMessage.Content.ReadAsAsync<Lista>();
         }
 
         public async Task<LivroApi> GetLivroAsync(int id)
