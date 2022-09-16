@@ -42,7 +42,7 @@ namespace Alura.ListaLeitura.WebApp
             }).AddEntityFrameworkStores<AuthDbContext>();
 
             services.AddHttpClient<LivroApiClient>(client => {
-                client.BaseAddress = new Uri("http://localhost/6000/api/");
+                client.BaseAddress = new Uri("http://localhost:6000/api/");
             });
 
             services.ConfigureApplicationCookie(options => {
