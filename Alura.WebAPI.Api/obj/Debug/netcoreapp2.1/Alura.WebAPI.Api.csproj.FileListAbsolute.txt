@@ -20,3 +20,24 @@ D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.genruntimeconfig.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.deps.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.dev.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.AssemblyReference.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfoInputs.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfo.cs
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CoreCompileInputs.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cs
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CopyComplete
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.genruntimeconfig.cache

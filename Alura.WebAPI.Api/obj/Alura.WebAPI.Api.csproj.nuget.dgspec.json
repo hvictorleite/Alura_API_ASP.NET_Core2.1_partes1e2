@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj": {}
+    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj": {
+    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
+        "projectUniqueName": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
         "projectName": "Alura.WebAPI.Api",
-        "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
-        "packagesPath": "C:\\Users\\hvict\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Api\\obj\\",
+        "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
+        "packagesPath": "C:\\Users\\vhleite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vhleite\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
-                "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
+              "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
+                "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
               },
-              "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
-                "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
+              "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
               }
             }
           }
@@ -71,26 +71,25 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
+    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
+        "projectUniqueName": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
         "projectName": "Alura.WebAPI.DAL.Livros",
-        "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
-        "packagesPath": "C:\\Users\\hvict\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.DAL.Livros\\obj\\",
+        "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
+        "packagesPath": "C:\\Users\\vhleite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vhleite\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +103,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
-                "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
+              "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
               }
             }
           }
@@ -141,26 +140,25 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+    "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+        "projectUniqueName": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
         "projectName": "Alura.WebAPI.Model",
-        "projectPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
-        "packagesPath": "C:\\Users\\hvict\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\.NET\\Alura Cursos\\API Rest ASP.NET MVC - Parte 1\\Alura_API_ASP.NET_Core2.1_parte1\\Alura.WebAPI.Model\\obj\\",
+        "projectPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\vhleite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vhleite\\source\\repos\\Cursos Alura\\.NET para web\\API Rest com ASP.NET parte 1\\Alura.WebAPI\\Alura.WebAPI.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vhleite\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,12 +201,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

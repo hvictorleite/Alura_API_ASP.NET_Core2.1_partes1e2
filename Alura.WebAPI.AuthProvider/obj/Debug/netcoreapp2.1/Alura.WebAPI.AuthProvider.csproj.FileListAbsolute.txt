@@ -20,3 +20,24 @@ D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
 D:\Workspace\.NET\Alura Cursos\API Rest ASP.NET MVC - Parte 1\Alura_API_ASP.NET_Core2.1_parte1\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.deps.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.dev.json
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.AssemblyReference.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfoInputs.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfo.cs
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CoreCompileInputs.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cs
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorTargetAssemblyInfo.cache
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.genruntimeconfig.cache
