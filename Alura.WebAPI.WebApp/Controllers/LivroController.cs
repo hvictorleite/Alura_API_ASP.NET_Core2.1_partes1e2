@@ -1,9 +1,6 @@
-﻿using System.Linq;
-using Alura.ListaLeitura.Persistencia;
-using Alura.ListaLeitura.Modelos;
+﻿using Alura.ListaLeitura.Modelos;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Net.Http;
 using System.Threading.Tasks;
 using Alura.ListaLeitura.HttpClients;
 
@@ -12,12 +9,10 @@ namespace Alura.ListaLeitura.WebApp.Controllers
     [Authorize]
     public class LivroController : Controller
     {
-        private readonly IRepository<Livro> _repo;
         private readonly LivroApiClient _api;
 
-        public LivroController(IRepository<Livro> repository, LivroApiClient api)
+        public LivroController(LivroApiClient api)
         {
-            _repo = repository;
             _api = api;
         }
 
@@ -52,10 +47,10 @@ namespace Alura.ListaLeitura.WebApp.Controllers
         }
 
         // Quando o ASP.NET percebe que o retorno do método é um objeto, este o retora como JSON.
-        public Livro RecuperaLivro(int id)
-        {
-            return _repo.Find(id);
-        }
+        //public Livro RecuperaLivro(int id)
+        //{
+        //    return _repo.Find(id);
+        //}
 
         [HttpGet]
         public async Task<IActionResult> Detalhes(int id)
