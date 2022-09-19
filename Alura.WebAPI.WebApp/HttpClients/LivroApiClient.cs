@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Lista = Alura.ListaLeitura.Modelos.ListaLeitura;
 
@@ -19,6 +20,10 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task<Lista> GetListaLeituraAsync(TipoListaLeitura tipo)
         {
+            // Definindo cabeçalho de autorização
+            _httpClient.DefaultRequestHeaders.Authorization =
+                new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImp0aSI6ImNiOTY5ODZhLThmODEtNDE5Ny05ZjFiLTM4ZmZjZTU2MWQ0MyIsImV4cCI6MTY2MzYwNjI0OSwiaXNzIjoiQWx1cmEuV2ViQXBwIiwiYXVkIjoiUG9zdG1hbiJ9.h4fsn-bQPvf_9e8jDySaTqXQ0Fw0_GotxOOVFjGFSGQ");
+
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"listasleitura/{tipo}");
             responseMessage.EnsureSuccessStatusCode();
 
@@ -35,6 +40,10 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task<byte[]> GetImagemCapaAsync(int id)
         {
+            // Definindo cabeçalho de autorização
+            _httpClient.DefaultRequestHeaders.Authorization =
+                new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImp0aSI6ImNiOTY5ODZhLThmODEtNDE5Ny05ZjFiLTM4ZmZjZTU2MWQ0MyIsImV4cCI6MTY2MzYwNjI0OSwiaXNzIjoiQWx1cmEuV2ViQXBwIiwiYXVkIjoiUG9zdG1hbiJ9.h4fsn-bQPvf_9e8jDySaTqXQ0Fw0_GotxOOVFjGFSGQ");
+
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"livros/{id}/capa");
             responseMessage.EnsureSuccessStatusCode();
 
