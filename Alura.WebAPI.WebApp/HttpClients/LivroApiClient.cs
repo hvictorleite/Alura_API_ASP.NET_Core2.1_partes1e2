@@ -1,4 +1,5 @@
 ﻿using Alura.ListaLeitura.Modelos;
+using Alura.ListaLeitura.Seguranca;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,17 +13,20 @@ namespace Alura.ListaLeitura.HttpClients
     public class LivroApiClient
     {
         private readonly HttpClient _httpClient;
+        private readonly AuthApiClient _auth;
 
-        public LivroApiClient(HttpClient httpClient)
+        public LivroApiClient(HttpClient httpClient, AuthApiClient auth)
         {
             _httpClient = httpClient;
+            _auth = auth;
         }
 
         public async Task<Lista> GetListaLeituraAsync(TipoListaLeitura tipo)
         {
             // Definindo cabeçalho de autorização
-            _httpClient.DefaultRequestHeaders.Authorization =
-                new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImp0aSI6ImNiOTY5ODZhLThmODEtNDE5Ny05ZjFiLTM4ZmZjZTU2MWQ0MyIsImV4cCI6MTY2MzYwNjI0OSwiaXNzIjoiQWx1cmEuV2ViQXBwIiwiYXVkIjoiUG9zdG1hbiJ9.h4fsn-bQPvf_9e8jDySaTqXQ0Fw0_GotxOOVFjGFSGQ");
+            var token = await _auth.PostLoginAsync(new LoginModel { Login = "admin", Password = "123" });
+            
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"listasleitura/{tipo}");
             responseMessage.EnsureSuccessStatusCode();
@@ -41,8 +45,10 @@ namespace Alura.ListaLeitura.HttpClients
         public async Task<byte[]> GetImagemCapaAsync(int id)
         {
             // Definindo cabeçalho de autorização
-            _httpClient.DefaultRequestHeaders.Authorization =
-                new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImp0aSI6ImNiOTY5ODZhLThmODEtNDE5Ny05ZjFiLTM4ZmZjZTU2MWQ0MyIsImV4cCI6MTY2MzYwNjI0OSwiaXNzIjoiQWx1cmEuV2ViQXBwIiwiYXVkIjoiUG9zdG1hbiJ9.h4fsn-bQPvf_9e8jDySaTqXQ0Fw0_GotxOOVFjGFSGQ");
+            var token = await _auth.PostLoginAsync(new LoginModel { Login = "admin", Password = "123" });
+
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
 
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"livros/{id}/capa");
             responseMessage.EnsureSuccessStatusCode();

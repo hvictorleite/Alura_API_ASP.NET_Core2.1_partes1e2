@@ -38,6 +38,10 @@ namespace Alura.ListaLeitura.WebApp
                 client.BaseAddress = new Uri("http://localhost:6000/api/");
             });
 
+            services.AddHttpClient<AuthApiClient>(client => {
+                client.BaseAddress = new Uri("http://localhost:5000/api/");
+            });
+
             services.ConfigureApplicationCookie(options => {
                 options.LoginPath = "/Usuario/Login";
             });
