@@ -1,5 +1,6 @@
 ﻿using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Seguranca;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,20 +14,23 @@ namespace Alura.ListaLeitura.HttpClients
     public class LivroApiClient
     {
         private readonly HttpClient _httpClient;
-        private readonly AuthApiClient _auth;
+        private readonly IHttpContextAccessor _accessor;
 
-        public LivroApiClient(HttpClient httpClient, AuthApiClient auth)
+        public LivroApiClient(HttpClient httpClient, IHttpContextAccessor accessor)
         {
             _httpClient = httpClient;
-            _auth = auth;
+            _accessor = accessor;
+        }
+
+        private void AddBearerToken()
+        {
+            var token = _accessor.HttpContext.User.Claims.First(c => c.Type == "Token").Value;
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
         }
 
         public async Task<Lista> GetListaLeituraAsync(TipoListaLeitura tipo)
         {
-            // Definindo cabeçalho de autorização
-            var token = await _auth.PostLoginAsync(new LoginModel { Login = "admin", Password = "123" });
-            
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+            AddBearerToken();
 
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"listasleitura/{tipo}");
             responseMessage.EnsureSuccessStatusCode();
@@ -36,6 +40,8 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task<LivroApi> GetLivroAsync(int id)
         {
+            AddBearerToken();
+
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"livros/{id}");
             responseMessage.EnsureSuccessStatusCode();
 
@@ -44,11 +50,7 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task<byte[]> GetImagemCapaAsync(int id)
         {
-            // Definindo cabeçalho de autorização
-            var token = await _auth.PostLoginAsync(new LoginModel { Login = "admin", Password = "123" });
-
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-
+            AddBearerToken();
 
             HttpResponseMessage responseMessage = await _httpClient.GetAsync($"livros/{id}/capa");
             responseMessage.EnsureSuccessStatusCode();
@@ -58,6 +60,8 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task PostLivroAsync(LivroUpload model)
         {
+            AddBearerToken();
+
             HttpContent content = CreateMultipartFormDataContent(model);
             HttpResponseMessage responseMessage = await _httpClient.PostAsync("livros", content);
             responseMessage.EnsureSuccessStatusCode();
@@ -97,6 +101,8 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task PutLivroAsync(LivroUpload model)
         {
+            AddBearerToken();
+
             HttpContent content = CreateMultipartFormDataContent(model);
             HttpResponseMessage responseMessage = await _httpClient.PutAsync("livros", content);
             responseMessage.EnsureSuccessStatusCode();
@@ -104,6 +110,8 @@ namespace Alura.ListaLeitura.HttpClients
 
         public async Task DeleteLivroAsync(int id)
         {
+            AddBearerToken();
+
             HttpResponseMessage responseMessage = await _httpClient.DeleteAsync($"livros/{id}");
             responseMessage.EnsureSuccessStatusCode();
         }

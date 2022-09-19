@@ -6,10 +6,8 @@ C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET pa
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
-C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
-C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
 C:\Users\vhleite\source\repos\Cursos Alura\.NET para web\API Rest com ASP.NET parte 1\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.AssemblyReference.cache

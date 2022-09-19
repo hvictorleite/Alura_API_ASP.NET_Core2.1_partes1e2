@@ -28,7 +28,6 @@
     ".NETCoreApp,Version=v2.1": {
       "Alura.WebAPI.WebApp/1.0.0": {
         "dependencies": {
-          "Alura.WebAPI.DAL.Usuarios": "1.0.0",
           "Alura.WebAPI.Model": "1.0.0",
           "Alura.WebAPI.Seguranca": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.0",
@@ -472,19 +471,6 @@
         },
         "compile": {
           "lib/netstandard2.0/System.Text.Json.dll": {}
-        }
-      },
-      "Alura.WebAPI.DAL.Usuarios/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity": "2.1.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.0"
-        },
-        "runtime": {
-          "Alura.WebAPI.DAL.Usuarios.dll": {}
-        },
-        "compile": {
-          "Alura.WebAPI.DAL.Usuarios.dll": {}
         }
       },
       "Alura.WebAPI.Model/1.0.0": {
@@ -3682,11 +3668,6 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "path": "system.text.json/4.7.2",
       "hashPath": "system.text.json.4.7.2.nupkg.sha512"
-    },
-    "Alura.WebAPI.DAL.Usuarios/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Alura.WebAPI.Model/1.0.0": {
       "type": "project",
